@@ -1,0 +1,9 @@
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\bin\Debug\Sistema.Repositorio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\bin\Debug\Sistema.Repositorio.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\bin\Debug\Sistema.Entidade.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\bin\Debug\Sistema.Entidade.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\obj\Debug\Sistema.Repositorio.csprojAssemblyReference.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\obj\Debug\Sistema.Repositorio.csproj.CoreCompileInputs.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\obj\Debug\Sistema.Repositorio.csproj.CopyComplete
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\obj\Debug\Sistema.Repositorio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Repositorio\obj\Debug\Sistema.Repositorio.pdb

@@ -1,0 +1,11 @@
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\bin\Debug\Sistema.Negocio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\bin\Debug\Sistema.Negocio.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\bin\Debug\Sistema.Entidade.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\bin\Debug\Sistema.Repositorio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\bin\Debug\Sistema.Entidade.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\bin\Debug\Sistema.Repositorio.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\obj\Debug\Sistema.Negocio.csprojAssemblyReference.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CoreCompileInputs.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\obj\Debug\Sistema.Negocio.csproj.CopyComplete
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\obj\Debug\Sistema.Negocio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Negocio\obj\Debug\Sistema.Negocio.pdb

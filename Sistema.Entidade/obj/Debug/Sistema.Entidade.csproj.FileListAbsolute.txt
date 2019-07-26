@@ -1,0 +1,6 @@
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Entidade\bin\Debug\Sistema.Entidade.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Entidade\bin\Debug\Sistema.Entidade.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Entidade\obj\Debug\Sistema.Entidade.csproj.CoreCompileInputs.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Entidade\obj\Debug\Sistema.Entidade.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Entidade\obj\Debug\Sistema.Entidade.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Entidade\obj\Debug\Sistema.Entidade.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Usuário";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div ng-app="ApplicationModule">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="mostrarusuarios">Consultar Todos</a></li>
+                    <li><a href="novousuario">Novo</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div data-ng-view></div>
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/angular")
+}
+

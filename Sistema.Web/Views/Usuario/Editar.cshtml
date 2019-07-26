@@ -1,0 +1,44 @@
+﻿
+
+@{
+    ViewBag.Title = "Editar Usuário";
+}
+
+<div class="jumbotron">
+    <h4>Edição Usuário</h4>
+</div>
+
+<div>
+    <form name="frmUsuario" ng-submit="salvar()" novalidate>
+
+        <fieldset>
+            <div class="form-group">
+                <label for="Id">Id</label>
+                <input name="Id" type="number" class="form-control" ng-model="usuario.Id" required disabled="disabled" />
+                <span ng-show="frmUsuario.Idade.$dirty && frmUsuario.Idade.$error.required">O campo id é obrigatório.</span>
+            </div>
+            <div class="form-group">
+                <label for="Nome">Nome</label>
+                <input name="Nome" type="text" class="form-control" ng-model="usuario.Nome" ng-maxlength="50" required />
+                <span ng-show="frmUsuario.Nome.$dirty && frmUsuario.Nome.$error.required">O campo nome é obrigatório.</span>
+                <span ng-show="frmUsuario.Nome.$error.maxlength">Máximo 50 catacteres.</span>
+            </div>
+            <div class="form-group">
+                <label for="Idade">Idade</label>
+                <input name="Idade" type="number" class="form-control" ng-model="usuario.Idade" ng-min="1" ng-max="130" required />
+                <span ng-show="frmUsuario.Idade.$dirty && frmUsuario.Idade.$error.required">O campo idade é obrigatório.</span>
+                <span ng-show="frmUsuario.Idade.$error.min">Minimo 1.</span>
+                <span ng-show="frmUsuario.Idade.$error.max">Máximo 130.</span>
+            </div>
+
+            <div class="form-group">
+                <label for="Endereco">Endereço</label>
+                <input name="Endereco" type="text" class="form-control" ng-model="usuario.Endereco" ng-maxlength="50" />
+                <span ng-show="frmUsuario.Endereco.$error.maxlength">Máximo 50 caracteres.</span>
+            </div>
+            <button type="submit" class="btn btn-primary" ng-disabled="frmUsuario.$invalid">Salvar</button>
+            <button type="button" class="btn btn-danger" data-ng-click="voltar()">Voltar</button>
+            <label style="color: red">{{error}}</label>
+        </fieldset>
+    </form>
+</div>

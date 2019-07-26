@@ -1,0 +1,13 @@
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\obj\Debug\Sistema.Servico.csprojAssemblyReference.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\obj\Debug\Sistema.Servico.csproj.CoreCompileInputs.cache
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Servico.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Servico.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Entidade.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Negocio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Repositorio.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Entidade.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Negocio.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\bin\Debug\Sistema.Repositorio.pdb
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\obj\Debug\Sistema.Servico.csproj.CopyComplete
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\obj\Debug\Sistema.Servico.dll
+C:\Teste GSN\Projeto\Avaliacao\Sistema.Servico\obj\Debug\Sistema.Servico.pdb
